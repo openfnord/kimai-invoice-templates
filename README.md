@@ -69,3 +69,17 @@ Please read the official documentation at [https://www.kimai.org/documentation/i
 - Wait for feedback and merge 😃
 
 By submitting your template you accept that it will be shared under the MIT license.
+
+
+## Other forked Repos for this project
+
+Hopefully I found all repos of the Kimai project so the whole eco system is preserved now for further development
+
+- https://github.com/openfnord/kimai-android  (android app for kimai)
+- https://github.com/openfnord/kimai (web based kimai server)
+- https://github.com/openfnord/kimai-invoice-templates (templates for kimai server, this)
+- https://github.com/openfnord/kimai-docker (dockerized kimai web based server)
+- https://github.com/openfnord/kimai-api-php (api for web based server)
+
+- https://github.com/openfnord/kimai-homepage (homepage of kimai project)
+- https://github.com/openfnord/kimai-images (logos and images) 
